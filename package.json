@@ -1,6 +1,7 @@
 {
   "name": "lerna-publish-test",
   "version": "1.0.0",
+  "repository": "git@github.com:Wangoutsmart/lerna-publish-test.git",
   "description": "",
   "main": "index.js",
   "scripts": {

@@ -1,6 +1,7 @@
 {
   "name": "ali-oss-test",
   "version": "0.0.4-alpha.0",
+  "repository": "git@github.com:Wangoutsmart/lerna-publish-test.git",
   "description": "oss",
   "author": "wangzhisheng <zhishengwang@aihuishou.com>",
   "homepage": "",
