@@ -21,7 +21,8 @@
   },
   "dependencies": {
     "alioss": "^3.0.0",
-    "axios": "^0.21.1"
+    "axios": "^0.21.1",
+    "chalk": "^4.1.1"
   },
   "gitHead": "d4008cae5a47961cb13625a22d852f810120bbf0"
 }
