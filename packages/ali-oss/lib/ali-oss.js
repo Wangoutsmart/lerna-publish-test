@@ -4,5 +4,5 @@ module.exports = aliOss;
 
 function aliOss() {
     // TODO
-    console.log(1132123123)
+    console.log(1132123)
 }
