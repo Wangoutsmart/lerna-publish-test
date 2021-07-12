@@ -1,6 +1,6 @@
 {
   "name": "ali-oss-test",
-  "version": "0.0.11",
+  "version": "0.0.10",
   "repository": "git@github.com:Wangoutsmart/lerna-publish-test.git",
   "description": "oss",
   "author": "wangzhisheng <zhishengwang@aihuishou.com>",
@@ -15,7 +15,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmjs.org"
+    "registry": "http://121.43.178.15:5000"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
@@ -26,5 +26,5 @@
     "chalk": "^4.1.1",
     "execa": "^5.1.1"
   },
-  "gitHead": "d4008cae5a47961cb13625a22d852f810120bbf0"
+  "gitHead": "5d96c39a0dd501d9276676c5d62eb2146ce04705"
 }
